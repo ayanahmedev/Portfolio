@@ -57,7 +57,7 @@ const Hero = () => {
           />
 
           <p className="text-center md:tracking-wider mb-4 text-sm md:text-lg lg:text-2xl">
-            Hi! I&apos;m Ayan ahmed Full stack developer
+            Hi! I&apos;m Ayan ahmed Software enginer & Cyber secruity 
           </p>
 
           <a href="#about">

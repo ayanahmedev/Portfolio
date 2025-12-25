@@ -1,4 +1,5 @@
 import React from "react";
+
 import { AnimatePresence, motion } from "framer-motion";
 
 import { CanvasRevealEffect } from "./ui/CanvasRevealEffect";
@@ -182,7 +183,9 @@ const AceternityIcon = ({ order }: { order: string }) => {
     //     style={{ mixBlendMode: "darken" }}
     //   />
     // </svg>
+    
   );
+
 };
 
 export const Icon = ({ className, ...rest }: any) => {

@@ -1,8 +1,12 @@
+
+
 export const navItems = [
   { name: "About", link: "#about" },
   { name: "Projects", link: "#projects" },
   { name: "Testimonials", link: "#testimonials" },
   { name: "Contact", link: "#contact" },
+
+
 ];
 
 export const gridItems = [
@@ -164,7 +168,7 @@ export const companies = [
   },
   {
     id: 5,
-    name: "docker.",
+    name: "dsocker.",
     img: "/dock.svg",
     nameImg: "/dockerName.svg",
   },
@@ -180,7 +184,7 @@ export const workExperience = [
   },
   {
     id: 2,
-    title: "Mobile App Dev - JSM Tech",
+    title: "Mobile App Dev ",
     desc: "Designed and developed mobile app for both iOS & Android platforms using React Native.",
     className: "md:col-span-2", // change to md:col-span-2
     thumbnail: "/exp2.svg",
