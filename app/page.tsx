@@ -25,6 +25,7 @@ const Home = () => {
         <Approach />
         <Certificates />
         <Footer />
+        {/* kdasdas */}
       </div>
     </main>
   );
